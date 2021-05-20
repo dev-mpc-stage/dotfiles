@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = stage.dev@memepascap.fr
-	name = jeremy lesgae
+	email = stage.dev@emepascap.fr
+	name = dev-mpc-stage
